@@ -1,1 +1,1 @@
-# portal__de_not-cias
+# portal__de_noticias
